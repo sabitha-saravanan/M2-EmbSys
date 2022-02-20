@@ -14,16 +14,17 @@ Heat was supplied from soldering iron that was pre-heated and placed on the temp
 ## REQUIREMENTS:
 
 i) HIGH LEVEL REQUIREMENTS:
-•	It is efficient and convenient
-•	They are cost effective 
-•	It consume 20% to 30% less energy
-•	When the water is heated it will automatically turn OFF
+
+|It is efficient and convenient|
+|They are cost effective|
+|It consume 20% to 30% less energy||
+|When the water is heated it will automatically turn OFF|
 
 ii) LOW LEVEL REQUIREMENTS:
  
-•	Relatively slow heating time
-•	Susceptible to power outages
-•	High operating cost
+	|Relatively slow heating time|
+  |Susceptible to power outages|
+	|High operating cost|
 
  ## DESIGN:
   
