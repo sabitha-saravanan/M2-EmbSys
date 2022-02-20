@@ -1,4 +1,7 @@
-## BLOCK DIAGRAM:
+
+## AUTOMATIC WATER HEATING UNIT
+
+## BLOCK DIAGRAM:                                           
 ![image](https://user-images.githubusercontent.com/98875588/154844185-5cf868d0-5f54-47bf-a947-bea687aaa3c0.png)
 
 
@@ -8,8 +11,8 @@ Automatic temperature switch that controls a powerful heater in a hot water stor
                                         ii) Another to switch it OFF
 
 Whenever the temperature of the water reaches the boiling temperature (above 95 degree Celsius) the device automatically switches OFF the electrical power supply to the water-heating element. As the hot water is being drawn from the vessel for use and replaced with cold water or as the water temperature drops below a particular setting (below 85 degree Celsius), the heating element is activated, i.e., turned ON to continue the heating. The switching involves the use of an electromechanical relay. An alarm was incorporated to define the state of the process and it creates awareness when the heated water reaches its maximum preset temperature. It produces an audible sound with the aid of SR latch, an oscillator, and a speaker, which informs the user that the water has reached its optimum boiling. A precision temperature sensor was used in the design for better performance. The design is quite flexible for numerous water heating operations.
-                    
-Heat was supplied from soldering iron that was pre-heated and placed on the temperature sensor (LM 35) directly, so that it could sense the heat. In less than a minute, there was audible sound from the loudspeaker and the light indicator from the LED flashed as a result of the heat indicating that the temperature has exceeded 95 degree Celsius. The alarm stopped sounding and the LED stopped flashing immediately after the heat was removed. It was also seen that the sensor output increased linearly with increase in temperature. When heat was applied to the sensor, its temperature changes increased the output voltage value of the sensor.
+                  
+            Heat was supplied from soldering iron that was pre-heated and placed on the temperature sensor (LM 35) directly, so that it could sense the heat. In less than a minute, there was audible sound from the loudspeaker and the light indicator from the LED flashed as a result of the heat indicating that the temperature has exceeded 95 degree Celsius. The alarm stopped sounding and the LED stopped flashing immediately after the heat was removed. It was also seen that the sensor output increased linearly with increase in temperature. When heat was applied to the sensor, its temperature changes increased the output voltage value of the sensor.
 
 ## REQUIREMENTS:
 
@@ -28,8 +31,7 @@ ii) LOW LEVEL REQUIREMENTS:
 
  ## DESIGN:
   
-    The approach used in this design is the modular one where the overall design broken into seven functional blocks, 
-                                      
+The approach used in this design is the modular one where the overall design broken into seven functional blocks,                             
 • Temperature sensor unit
 • Comparator unit
 • Input/control latch unit
