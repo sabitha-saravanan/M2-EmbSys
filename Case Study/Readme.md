@@ -15,27 +15,27 @@ Heat was supplied from soldering iron that was pre-heated and placed on the temp
 
 i) HIGH LEVEL REQUIREMENTS:
 
-It is efficient and convenient
-They are cost effective
-It consume 20% to 30% less energy
-When the water is heated it will automatically turn OFF
+• It is efficient and convenient
+• They are cost effective
+• It consume 20% to 30% less energy
+• When the water is heated it will automatically turn OFF
 
 ii) LOW LEVEL REQUIREMENTS:
  
-	Relatively slow heating time
-  Susceptible to power outages
-	High operating cost
+ • Relatively slow heating time
+ • Susceptible to power outages
+ • High operating cost
 
  ## DESIGN:
   
     The approach used in this design is the modular one where the overall design broken into seven functional blocks, 
                                       
-•	Temperature sensor unit
-•	Comparator unit
-•	Input/control latch unit
-•	Relay switching unit
-•	Alarm unit
-•	Power supply unit
-•	load
+• Temperature sensor unit
+• Comparator unit
+• Input/control latch unit
+• Relay switching unit
+• Alarm unit
+• Power supply unit
+• load
 
 Where each block represents a section of the circuit that carries out a specific function. The functional block diagram shows the interconnection between these blocks.
