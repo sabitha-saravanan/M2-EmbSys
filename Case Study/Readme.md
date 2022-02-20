@@ -1,5 +1,5 @@
 ## BLOCK DIAGRAM:
-[image](https://user-images.githubusercontent.com/98875588/154844185-5cf868d0-5f54-47bf-a947-bea687aaa3c0.png)
+![image](https://user-images.githubusercontent.com/98875588/154844185-5cf868d0-5f54-47bf-a947-bea687aaa3c0.png)
 
 
 Water heating is a heat transfer process that uses an energy source to heat water above its initial temperature. Typically domestic uses of hot water include cooking, cleaning, bathing, and space heating. 
