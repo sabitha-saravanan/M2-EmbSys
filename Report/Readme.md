@@ -3,8 +3,7 @@
 
 
 ## BLOCK DIAGRAM 
-             
-   [image](https://user-images.githubusercontent.com/98875588/154843621-5064240b-0550-40c2-9eb0-47fbf81379d1.png)
+         (https://user-images.githubusercontent.com/98875588/154843621-5064240b-0550-40c2-9eb0-47fbf81379d1.png)
    
    Water heating is a heat transfer process that uses an energy source to heat water above its initial temperature. Typically domestic uses of hot water include cooking, cleaning, bathing, and space heating. 
 Automatic temperature switch that controls a powerful heater in a hot water storage vessel. The unit is a simple system which could be used for various heating processes at home, offices, etc. The system is an automatic temperature switch that controls a powerful heater in a hot water storage vessel. It has two-fixed temperature settings,
