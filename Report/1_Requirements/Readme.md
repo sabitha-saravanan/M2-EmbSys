@@ -19,7 +19,7 @@
 
 
 
-## EQUIPMENT
+## EQUIPMENTS
 
 
 
