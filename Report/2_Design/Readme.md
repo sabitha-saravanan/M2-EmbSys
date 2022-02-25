@@ -1,7 +1,8 @@
 ## BEHAVIORAL DIAGRAM
-![image](https://user-images.githubusercontent.com/98875588/155704973-eff9006c-984f-4128-9d08-c074339a0882.png)
+![image](https://user-images.githubusercontent.com/98875588/155729187-efece4ca-0139-4aa4-8914-64e1fe258d0b.png)
+
 ## STRUCTURAL DIAGRAM
-![image](https://user-images.githubusercontent.com/98875588/155717887-2fa8e473-9fa0-4223-8f84-13ba9176cd86.png)
+![image](https://user-images.githubusercontent.com/98875588/155729281-7da029a3-bf1a-44d7-b2ba-94483b0d6bda.png)
 
 
 
