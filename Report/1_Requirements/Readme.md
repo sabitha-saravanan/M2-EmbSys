@@ -35,20 +35,26 @@ Home automation is building automation for a home called smart home or smart hou
 ## STRENGTH
 
 i)  With ability to adjust your thermostat and lights with your voice
+
 ii) Gain more control over how much energy your home uses at a given time.
+
 iii) save money and live more cost- effectively
 
 ## WEAKNESS
 i) Many voice controlled systems are not completely hands free.
+
 ii) Voice control systems that run on mobile devices still require you to press a button on your device before you can issue a command.
 
 ## OPPURTUNITIES
 i) Home automation allows us to control hosehold electrical applicances like light,door,fan,AC etc.
+
 ii)It also provides home security and emergency system to be activated.
 
 ## THREATS
 i) According to rambus a premier silicon intellectual property and chip provider,an estimated 80% of internet of things devices are vulnerable to one of the many attack scenarios.
+
 ii) These devices for the most part, present very little security risk when usedas stand-alone devices and not connected to the internet
+
 iii) These stand alone devices introduce nuerous cyber security risks.
 
 ### 4W'S & 1H
