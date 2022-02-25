@@ -26,7 +26,7 @@ Home automation is building automation for a home called smart home or smart hou
 
 ### EQUIPMENTS
 
-A home automation system combines hardware and softwarevia wireless network to control hoe electronics and appliances through one device which could be a smart phone, tablet, or aspecified central automation control hub.These devices can be controlled remotely.
+A home automation system combines hardware and software via wireless network to control hoe electronics and appliances through one device which could be a smart phone, tablet, or aspecified central automation control hub.These devices can be controlled remotely.
 
 ### SWOT ANALYSIS
 
