@@ -4,8 +4,6 @@
 ![image](https://user-images.githubusercontent.com/98875588/155704973-eff9006c-984f-4128-9d08-c074339a0882.png)
 
 
-
-
 ## STRUCTURAL DIAGRAM
 
 
