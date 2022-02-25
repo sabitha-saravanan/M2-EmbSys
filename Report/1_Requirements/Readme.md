@@ -59,7 +59,7 @@ iii) These stand alone devices introduce nuerous cyber security risks.
 
 ## WHO
 
-This can be used by all age people.
+Home automation can be used by all age group people.
 
 ## WHAT
 
