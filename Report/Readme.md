@@ -12,7 +12,7 @@ The system is designed in such a way user can control all appliances at once or 
 
 ### OBJECTIVES
  
- Gadget controlling by switch or remote is old idea now. we can control anyn home apparatuses by utilizing our voice. the fundamental point of this venture is to control light, fan,bulb and so forth utilizing human voice. the physically cripple individuals are not working home machines utilizing hands. this venture is extremely valuable for physically incapacitated/physically inpair individual. they are skilled to work home machines by utilizing their voice.A portion of the target of venture is composed underneath
+ Gadget controlling by switch or remote is old idea now. we can control any home apparatuses by utilizing our voice. the fundamental point of this venture is to control light, fan,bulb and so forth utilizing human voice. the physically cripple individuals are not working home machines utilizing hands. this venture is extremely valuable for physically incapacitated/physically inpair individual. they are skilled to work home machines by utilizing their voice.A portion of the target of venture is composed underneath
  
   i) On the off chance that you dealt with a home mechanism framework by building a cell phone particular an android gadgets.
   
