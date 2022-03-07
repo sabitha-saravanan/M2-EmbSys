@@ -16,7 +16,7 @@ The system is designed in such a way user can control all appliances at once or 
  
   i) On the off chance that you dealt with a home mechanism framework by building a cell phone particular an android gadgets.
   
-  ii) The plan and usage of financially savvy mechanization framework still complling.
+  ii) The plan and usage of financially savvy mechanization framework still compiling.
   
   iii) To plan an easy to understand and can work a sheltered framework for home machines for the most part engaged to help seniors and debilitated.
 
