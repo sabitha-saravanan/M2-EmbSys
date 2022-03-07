@@ -1,3 +1,5 @@
+### APPLICATIONS OF HARDWARE
+
 ## Applications of Arduino UNO: 
 
  Arduino as a good device for developing interactive object, talking inputs from a variety of switches or sensors and controlling a variety of lights, motors and other outputs.
