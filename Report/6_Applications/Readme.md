@@ -50,5 +50,21 @@ In general purpose rectification of power supplies, inverters, and freewheeling 
 
  It could be used as an amplifier for amplifying current ,voltage and power.
 
+## Applications of LCD(Liquid Crystal Display):
+
+ The liquid crystal displays(LCD) are used in aircraft cockpit displays.
+
+ It is used as a display screen in calculators.
+
+ For displaying images used in digital cameras.
+
+ The television in main applications of LCD.
+
+ Mostly the computer monitor is made up of LCD.
+
+ It is used in instrumental panel where all the lab instruments uses LCD screens for display.
+
+ The LCD's are commonly used in al digital wrist watches for displaying time.
+
 
 
