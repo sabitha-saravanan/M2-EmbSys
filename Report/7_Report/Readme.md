@@ -148,15 +148,3 @@ Future scope for the home automation systems involves making homes even smarter.
 
 The home automation system has been experimentally proven to work satisfactorily by connecting sample appliances were successfully controlled from a wireless mobile device .The system as the name indicates, “Home Automation” makes the system more flexible and provides attractive user interface compared to other home automation. The Bluetooth client was successfully tested on a multitude of different mobile phones from different manufacturers, thus proving is portability and wide compatibility. Thus a low-cost home automation system was successfully designed, implemented and tested. The home automation using internet of things has been experimentally proven to work satisfactorily by connecting simple appliances to it and the appliances were successfully controlled remotely through internet. The designed system not only monitors the sensor data, like temperature, gas, light, motion sensors, but also actuates a process according to the requirement, for example switching on the light when it gets dark. It also stores the sensor parameters in the cloud in a timely manner. This will help the user to analyze the condition of various parameters in the home anytime anywhere. Hence this project conclude that the required goals and objectives of home automation system have been achieved. The system design and architecture were discussed, and prototype presents that the basic level of home appliance has been implemented.
 
-
-
-
-
-
-
-
-
-
-
-
-
