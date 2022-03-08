@@ -1,5 +1,4 @@
 ### TABLE OF CONTENT
-
 ## 1.INTRODUCTION
 ## 1.1 ABSTRACT
 ## 1.2 SWOT ANAYSIS
@@ -15,7 +14,7 @@
 ## 3.2 STRUCTURAL DIAGRAM
 ## 3.3 COMPONENTS REQUIRED
 
-## 4. TEST PLAN AND OUTPUT
+## 4. FUTURE SCOPE
 
 ## 5. CONCULSION
 
@@ -112,6 +111,7 @@ First you need to install the AMR voice app,next choose bluetooth option and con
 ## 3.3 COMPONENT REQUIREMENTS:
 
 ## 3.3.1 Arduino UNO  
+
  i) Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. There are many other microcontrollers and microcontroller platforms available for physical computing
  
  ii) The Arduino Uno contains asset of analog and digital pins that are input and output pins which are used to connect the board to other components. The boar has 14 digital I/O pins (six capable of PWM output), 6 analog I/O pins, and is programmable with Arduino IDE (Integrated Development Environment).The board has a USB connection that can be used to a power supply to the board. The board is used for electronics projects and used to design circuit. Arduino Uno is a low cost, flexible, and easy to use programmable open source microcontroller board that can be integrated into a variety of electronics projects.
@@ -119,6 +119,7 @@ First you need to install the AMR voice app,next choose bluetooth option and con
    ![image](https://user-images.githubusercontent.com/98875588/155744067-78e3d9c5-fc63-4c5d-9931-717bc23deab2.png)
 
  ## 3.3.2 HC-05 Bluetooth module
+ 
  i) HC-Bluetooth module is an easy to use Bluetooth Serial port protocol (SPP) module, designed for transparent wireless serial connection setup .It provides switching between master and slave mode which means it is able to use neither receiving nor transmitting data. It uses 2.45GHZ frequency band .The transfer rate of the data can vary up to 1Mbps and it is in range of 10 meters.
  
  ii) The HC-05 module can be operated within 4-6V of power supply. Designed to replace cable connections to communicate with the electronics.Usually, it is used to connect small devices like mobiles using a short range of wireless connection to exchange files.This module works on 3.3 V. We can connect 5V supply voltage as well since the module has on board 5 to 3.3 V regulator.
@@ -126,6 +127,7 @@ First you need to install the AMR voice app,next choose bluetooth option and con
    ![image](https://user-images.githubusercontent.com/98875588/155744157-51372a05-39f3-444c-9aa6-f08a502746c1.png)
 
  ## 3.3.3 2N2222 Transistor
+ 
   i) The 2N2222 is a common NPN bipolar junction transistors (BJT) used for general purpose low-power amplifying or switching applications. It is designed for low to medium current, low power, medium voltage, and can operate at moderately high speeds. The 2N2222 transistors is made of either germanium or silicon that has been saturated with either a positively or negatively changed material process called as doping. 
   
  ii) The 2N2222 has a positively charged section between two negatively charged sections. The resulting two connections between the three sections are where the 2N2222 derives the name bipolar junction transistors. The materials used are arranged in the order of negative, positive, then so the devices is also said to be NPN transistors. 
@@ -133,13 +135,18 @@ First you need to install the AMR voice app,next choose bluetooth option and con
    ![image](https://user-images.githubusercontent.com/98875588/155744290-0148d0d7-61f2-4a43-a2d5-7f067fbd1eff.png)
    
 ## 3.3.4 LCD Display 
+
 The term LCD is a Liquid Crstal display.A 16x2 LCD means it can display 16 characters per line and there are 2 lines.In this LCD each character is displayed in 5x7 pixel matrix.The 16x2 intelligent alphanumeric dot matrix display is capable of displaying 224 different characters and symbols.It has 6 columns and 2 rows.These displays are mainly preffered for multi segment light emitting diodes and seven segments.The main benefits of using this module are inexpensive, simply programmable, animations, and there are no limitations for displaying custom characters,special,and even animations,etc..
 
 ![lcd-16x2-pin-diagram](https://user-images.githubusercontent.com/98875588/157200446-a651e826-468e-4d00-93eb-86cdf60cfb30.jpg)
 
+## 4.FUTURE SCOPE
 
+Future scope for the home automation systems involves making homes even smarter.Homes can be interfaced with sensors including motion sensors, light sensors, and temperature sensors, and provide automated toggling of devices based on conditions.Internet of things can also be controlled home automation system. We can replace bluetooth by GSM modem so that can achieve device controlling by sending SMS using GSM modem. Home of future is a space for the digital natives. With the invention of lots of automation technologies featuring IOT and AI home automtaion, has become a reality.
 
+## 5.CONCULSION
 
+The home automation system has been experimentally proven to work satisfactorily by connecting sample appliances were successfully controlled from a wireless mobile device .The system as the name indicates, “Home Automation” makes the system more flexible and provides attractive user interface compared to other home automation. The Bluetooth client was successfully tested on a multitude of different mobile phones from different manufacturers, thus proving is portability and wide compatibility. Thus a low-cost home automation system was successfully designed, implemented and tested. The home automation using internet of things has been experimentally proven to work satisfactorily by connecting simple appliances to it and the appliances were successfully controlled remotely through internet. The designed system not only monitors the sensor data, like temperature, gas, light, motion sensors, but also actuates a process according to the requirement, for example switching on the light when it gets dark. It also stores the sensor parameters in the cloud in a timely manner. This will help the user to analyze the condition of various parameters in the home anytime anywhere. Hence this project conclude that the required goals and objectives of home automation system have been achieved. The system design and architecture were discussed, and prototype presents that the basic level of home appliance has been implemented.
 
 
 
