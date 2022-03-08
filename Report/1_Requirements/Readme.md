@@ -89,6 +89,6 @@ First you need to install the AMR voice app,next choose bluetooth option and con
 |ID|Description|Status|
 |---|---|---|
 |LR01|Depending upon the complexity of the system, installing a home automation device can be a significant burden on the homeowner.|Implemented|
-|LR02|controlling all aspects of home automation from one centralized platform is important, but not at all systems are comapatible with on another.|Implemented|
+|LR02|controlling all aspects of home automation from one centralized platform is important, but not at all systems are compatible with on another.|Implemented|
 |LR03|As with all computing devices, security will becoe a greater issue as more people use smart home devices.|Implemented|
-|LR04|At aspecific time give only one command|Implemented|
+|LR04|At a specific time give only one command|Implemented|
