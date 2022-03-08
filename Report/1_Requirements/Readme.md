@@ -30,6 +30,8 @@ A home automation system combines hardware and software via wireless network to 
 
 ### SWOT ANALYSIS
 
+![image](https://user-images.githubusercontent.com/98875588/157240518-c77c0bdf-4b34-49f4-8cd6-f57c77ad1035.png)
+
 ## STRENGTH
 
 i)  With ability to adjust your thermostat and lights with your voice
@@ -56,6 +58,8 @@ ii) These devices for the most part, present very little security risk when used
 iii) These stand alone devices introduce numerous cyber security risks.
 
 ### 4W'S & 1H
+
+![image](https://user-images.githubusercontent.com/98875588/157240229-49637612-c5c6-49d0-873c-ed4c4728d348.png)
 
 ## WHO
 
