@@ -1,3 +1,13 @@
+### APPLICATIONS OF HOME AUTOMATION
+
+•	The voice activated home automation system will help us to control different loads (electrical appliances) with simple voice commands.
+
+•	This kind of system is very useful for people with disabilities.
+
+•	Managing all of your home devices from one places.
+
+•	Incresing energy efficiency
+
 ### APPLICATIONS OF HARDWARE
 
 ## Applications of Arduino UNO: 
