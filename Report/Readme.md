@@ -20,6 +20,5 @@ Home automation focuses on making it possible for older adults and people with d
 
 Home automation is building automation for a home called smart home or smart house.A home automation system will monitor or control homes attributes such as lightining,climate,appliances.It may also include home security such as access control and alarm systems.When connected to internet home devices are an important constituent of the internet of things.The idea or concept of first smart home has explored in science fiction for decades. The originally first smart home was not actual architecture but only an idea. Although the concept of smart home automation has been around for quite a long time, but an actual smart home has only established a short time. The invention of home appliances such as a television with a remote control which is a simple home automation system was patented in 1893. Other than that, more home appliances have been invented since that. In early 2000, the popularity of smart home automation began to increase due to different of technology started to arise. Smart home automation turns into a more affordable choice and therefore a viable or available technology for consumers. With the uprising of the prestige of smart home, home networking, domestic technologies and other gadgets began to emerge on store shelves
 
-
-![code_quality_score](https://api.code inspector.com/project/score/svg)
-![code_quality_score](https://api.code inspector.com/public/project/12/status/svg)
+![code_quality_score](https://api.codiga.io/project/31602/score/svg)
+![code_quality_score](https://api.codiga.io/project/31602/status/svg).
