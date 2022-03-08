@@ -81,4 +81,23 @@ It can be working only you are connected the bluetooth to AMR voice device
 
 First you need to install the AMR voice app,next choose bluetooth option and connect robot after successful connection the device are ready to transmit data. Next press the microphone icon on AMR voice app and start giving commands.
 
+## 2.REQUIREMENTS
+
+## High level requirements
+
+|ID|Description|status|
+|---|---|---|
+|HR01| Motion detection in all system area.|Implemented|
+|HR02| Auto call user when system hacked.|Implemented|
+|HR03| Customize your needs.|Implemented|
+|HR04| It keeps home secure by being able to look front door smart phone or tablet.|Implemented|
+
+## Low level requirements
+
+|ID|Description|Status|
+|---|---|---|
+|LR01|Depending upon the complexity of the system, installing a home automation device can be a significant burden on the homeowner.|Implemented|
+|LR02|controlling all aspects of home automation from one centralized platform is important, but not at all systems are compatible with on another.|Implemented|
+|LR03|As with all computing devices, security will becoe a greater issue as more people use smart home devices.|Implemented|
+|LR04|At a specific time give only one command|Implemented|
 
