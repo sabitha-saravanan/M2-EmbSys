@@ -31,6 +31,8 @@ With advancement of Automation technology, life is getting simpler and easier in
 
 ## 1.2 SWOT ANALYSIS
 
+![image](https://user-images.githubusercontent.com/98875588/157241542-9ad82d15-c4b7-464b-8e71-2c5bc1229e6a.png)
+
 ## STRENGTH
 
 i) With ability to adjust your thermostat and lights with your voice
