@@ -16,8 +16,10 @@ Home automation is building automation for a home called smart home or smart hou
 |2_Architecture|Behavioural and structural diagrams|
 |3_Implementation|code and documentation|
 |4_Test plan and output|documents with test plan and output|
-|5_ Report|Document with whole project|
-|6_Images|project images|
+|5_Images|project images|
+|6_Applications|project components application|
+|7_Report|Document with whole project|
+
 
 
 
