@@ -28,4 +28,25 @@
  ii) The 2N2222 has a positively charged section between two negatively charged sections. The resulting two connections between the three sections are where the 2N2222 derives the name bipolar junction transistors. The materials used are arranged in the order of negative, positive, then so the devices is also said to be NPN transistors. 
               
    ![image](https://user-images.githubusercontent.com/98875588/155744290-0148d0d7-61f2-4a43-a2d5-7f067fbd1eff.png)
+   
+## LCD Display 
+The term LCD is a Liquid Crstal display.A 16x2 LCD means it can display 16 characters per line and there are 2 lines.In this LCD each character is displayed in 5x7 pixel matrix.The 16x2 intelligent alphanumeric dot matrix display is capable of displaying 224 different characters and symbols.It has 6 columns and 2 rows.These displays are mainly preffered for multi segment light emitting diodes and seven segments.The main benefits of using this module are inexpensive, simply programmable, animations, and there are no limitations for displaying custom characters,special,and even animations,etc..
+
+![lcd-16x2-pin-diagram](https://user-images.githubusercontent.com/98875588/157200446-a651e826-468e-4d00-93eb-86cdf60cfb30.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
