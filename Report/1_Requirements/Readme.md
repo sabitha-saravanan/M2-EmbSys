@@ -30,7 +30,7 @@ A home automation system combines hardware and software via wireless network to 
 
 ### SWOT ANALYSIS
 
-![image](https://user-images.githubusercontent.com/98875588/157240956-997c49c5-326d-4b2a-ac61-34b18aea9ac0.png)
+![image](https://user-images.githubusercontent.com/98875588/157241542-9ad82d15-c4b7-464b-8e71-2c5bc1229e6a.png)
 
 ## STRENGTH
 
