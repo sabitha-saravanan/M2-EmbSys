@@ -44,7 +44,7 @@ i) Many voice controlled systems are not completely hands free.
 ii) Voice control systems that run on mobile devices still require you to press a button on your device before you can issue a command.
 
 ## OPPURTUNITIES
-i) Home automation allows us to control hosehold electrical applicances like light,door,fan,AC etc.
+i) Home automation allows us to control hosehold electrical applicances like light, door, fan, AC etc.
 
 ii)It also provides home security and emergency system to be activated.
 
@@ -53,7 +53,7 @@ i) According to rambus a premier silicon intellectual property and chip provider
 
 ii) These devices for the most part, present very little security risk when usedas stand-alone devices and not connected to the internet
 
-iii) These stand alone devices introduce nuerous cyber security risks.
+iii) These stand alone devices introduce numerous cyber security risks.
 
 ### 4W'S & 1H
 
@@ -63,7 +63,7 @@ Home automation can be used by all age group people.
 
 ## WHAT
 
-Home automation gives acess to control devices in your home from a mobile devices anywhere.
+Home automation gives access to control devices in your home from a mobile devices anywhere.
 
 ## WHEN
 
