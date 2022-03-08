@@ -63,8 +63,8 @@ iii) These stand-alone devices introduce numerous cyber security risks.
 
 ## 1.3 4W'S & 1H
 
-## WHO
 
+## WHO 
 Home automation can be used by all age group people.
 
 ## WHAT
