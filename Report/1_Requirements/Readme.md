@@ -30,7 +30,7 @@ A home automation system combines hardware and software via wireless network to 
 
 ### SWOT ANALYSIS
 
-![image](https://user-images.githubusercontent.com/98875588/157240518-c77c0bdf-4b34-49f4-8cd6-f57c77ad1035.png)
+![image](https://user-images.githubusercontent.com/98875588/157240956-997c49c5-326d-4b2a-ac61-34b18aea9ac0.png)
 
 ## STRENGTH
 
@@ -41,16 +41,19 @@ ii) Gain more control over how much energy your home uses at a given time.
 iii) save money and live more cost- effectively
 
 ## WEAKNESS
+
 i) Many voice controlled systems are not completely hands free.
 
 ii) Voice control systems that run on mobile devices still require you to press a button on your device before you can issue a command.
 
 ## OPPURTUNITIES
+
 i) Home automation allows us to control hosehold electrical applicances like light, door, fan, AC etc.
 
 ii)It also provides home security and emergency system to be activated.
 
 ## THREATS
+
 i) According to rambus a premier silicon intellectual property and chip provider,an estimated 80% of internet of things devices are vulnerable to one of the many attack scenarios.
 
 ii) These devices for the most part, present very little security risk when usedas stand-alone devices and not connected to the internet
